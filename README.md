@@ -1,2 +1,2 @@
 # Project
-Clik - Game
+## Game Idea: Clik 
