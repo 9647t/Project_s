@@ -3,4 +3,4 @@
 
 ![Diagram]( )
 # Group Members
-@9647t (alan huang)
+@9647t (Alan Huang)
