@@ -1,3 +1,6 @@
+# Progress
+**Download:** Not finished yet maybe 40% But project download still included
+
 # Project
 **Game Idea:** Clik - basically tower defence but with mouse pointer
 
