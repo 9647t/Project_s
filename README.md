@@ -2,7 +2,7 @@
 **Download:** Not finished yet maybe 40% But project download still included
 
 # Project
-**Game Idea:** Clik - basically tower defence but with mouse pointer
+**Game Idea:** Clik - prevent enemies from reaching center by clicking
 
 ![Diagram](https://github.com/9647t/Project_s/blob/main/Images/Untitled%20Diagram.drawio.png?raw=true )
 
